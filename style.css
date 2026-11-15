@@ -1,0 +1,29 @@
+body{font-family: Arial;
+background-color: green;
+}
+
+.container{width: 500px;
+margin: 40px auto;
+padding: 25px;
+background-color: palegreen;
+}
+
+
+h2{text-align: center;
+}
+
+label{display: block;
+margin-top: 12px;
+}
+
+input,select,textarea{width: 100%;
+padding: 8px;
+box-sizing: border-box;
+}
+
+button{width: 48%;
+padding: 10px;
+margin-top: 15px;
+background: black;
+color: whitesmoke;
+border: none;}
